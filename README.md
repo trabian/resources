@@ -13,6 +13,7 @@
 *   [Narcissistic Design - Stuart Halloway](https://vimeo.com/77199361)
 *   [Debugging with the Scientific Method - Stuart Halloway](https://www.youtube.com/watch?v=FihU5JxmnBg)
 *   [Agile is Dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+*   [On the Spectrum of Abstraction - Cheng Lou](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
 ## Interesting
 
